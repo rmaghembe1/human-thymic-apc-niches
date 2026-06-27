@@ -7,7 +7,7 @@ authors:
     orcid: ""
 version: "1.0.0"
 date-released: "2026-06-27"
-repository-code: "TO_BE_ADDED_AFTER_GITHUB_CREATION"
+repository-code: "https://github.com/rmaghembe1/human-thymic-apc-niches"
 abstract: "Reproducibility materials for a single-cell, CITE-seq and spatial transcriptomic re-analysis of human thymic stromal-immune antigen-presenting niches across early-life development."
 keywords:
   - thymus
