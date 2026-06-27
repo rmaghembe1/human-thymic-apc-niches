@@ -1,0 +1,25 @@
+leiden_0_6	working_label	broad_class	annotation_confidence	n_cells	pct_total
+0	Endothelial / vascular stromal	Vascular	Medium	1500	16.4
+1	Fetal CCL25/KRT-high TEC	TEC	High	840	9.19
+2	Fibroblast / mesenchymal stromal	Fibroblast	High	729	7.97
+3	MHC-II-high vascular/immune-adjacent	Vascular_MHCII	Medium	694	7.59
+4	Complement fibroblast	Fibroblast	High	619	6.77
+5	Pericyte / smooth-muscle-like stromal	Perivascular	High	594	6.5
+6	Postnatal barrier/stress TEC-like	TEC	Medium	345	3.77
+7	ACKR1 vascular / MHC-II-high endothelial-like	Vascular_MHCII	Medium	338	3.7
+8	Erythroid / haemoglobin-high contaminant	Contaminant	High	306	3.35
+9	Smooth-muscle/perivascular stromal	Perivascular	High	296	3.24
+10	MHC-I/interferon-high endothelial-like	Vascular_MHCII	Medium	296	3.24
+11	Matrix fibroblast	Fibroblast	High	288	3.15
+12	Vascular-associated stromal / endothelial	Vascular	Medium	285	3.12
+13	Contractile perivascular stromal	Perivascular	High	267	2.92
+14	APOE/complement stromal	Fibroblast	Medium	266	2.91
+15	T-cell contaminant/minor immune	Immune_contaminant	High	250	2.73
+16	Adult KRT5-KRT19 mTEC-like	TEC	High	216	2.36
+17	Immature/progenitor-like epithelial TEC	TEC	Medium	210	2.3
+18	KRT17/KRT15/KRT14 mTEC-like	TEC	High	198	2.17
+19	Mixed immune contaminant	Immune_contaminant	Medium	186	2.03
+20	Cycling/proliferating cells	Cycling	High	180	1.97
+21	Immune contaminant, T/DC/B-like mixed	Immune_contaminant	Medium	124	1.36
+22	Myogenic/skeletal-muscle-like contaminant	Contaminant	High	92	1.01
+23	Mesothelial-like / capsule-associated stromal	Capsule_stromal	Medium	26	0.28

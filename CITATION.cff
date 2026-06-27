@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and repository DOI."
+title: "Human thymic stromal-immune antigen-presenting niches"
+authors:
+  - family-names: "Maghembe"
+    given-names: "Reuben S."
+    orcid: ""
+version: "1.0.0"
+date-released: "2026-06-27"
+repository-code: "TO_BE_ADDED_AFTER_GITHUB_CREATION"
+abstract: "Reproducibility materials for a single-cell, CITE-seq and spatial transcriptomic re-analysis of human thymic stromal-immune antigen-presenting niches across early-life development."
+keywords:
+  - thymus
+  - single-cell transcriptomics
+  - spatial transcriptomics
+  - antigen presentation
+  - MHC-II
+  - thymic epithelial cells
+  - B-cell APC
+license: "MIT"

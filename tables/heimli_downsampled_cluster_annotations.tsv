@@ -1,0 +1,24 @@
+leiden_0_8	working_label	broad_class	confidence	annotation_note
+0	ADT-high mixed APC-enriched / ribosomal-low-specificity	Mixed_low_confidence	Low	RNA markers mostly ribosomal/housekeeping; ADT enriched for CD11b/CD11c/CD123/CD14/CD16/CD19; avoid strong lineage claim
+1	Cycling/proliferating thymocytes	Cycling_thymocyte	High	MKI67/HMGB2/CENPF/TOP2A/NUSAP1
+2	HLA-I/CD27/CD7 T-cell-like	T_cell	Medium	HLA-A/HLA-B/CD27/CD7/IFITM1
+3	LAT/SATB1/PTPRC thymocyte	T_cell	High	ITM2A/LAT/SATB1/PTPRC/LCP2/CORO1A
+4	Immature proliferating thymocyte	Immature_thymocyte	High	PTCRA/DNTT/TRDC/UHRF1/CDK6
+5	CD8/CD1E thymocyte-like mixed	Thymocyte_mixed	Medium	CD8B/CD1E/CD3E/CD8A; ADT broadly high; interpret cautiously
+6	LYZ/MHC-II macrophage-monocyte APC	Macrophage_APC	High	LYZ/HLA-DRA/CD74/HLA-DPA1/HLA-DPB1/CST3
+7	MS4A1/CD79A MHC-II B-cell APC	B_cell_APC	High	MS4A1/CD79A/HLA-DRA/CD74/HLA-DQA1/HLA-DQB1
+8	CD1E/CD8B/DNTT thymocyte-like	Thymocyte	Medium	CD1E/CD8B/AQP3/DNTT/CD3E/CD8A
+9	RAG1/MZB1/CD38 lymphoid mixed	Lymphoid_mixed	Medium	RAG1/MZB1/CD38/SATB1/PTPRC; possible thymocyte/B-lineage mixture
+10	CCL19/FSCN1 activated APC-like	Activated_APC_like	Low	CCL19/FSCN1/MARCKSL1; weak RNA specificity; validate cautiously
+11	CCR7/LAMP3 activated DC-like	Activated_DC	High	CCR7/LAMP3/TNFAIP2/BIRC3/RASSF4
+12	LILRA4/IL3RA/GZMB pDC-like	pDC_APC	High	LILRA4/JCHAIN/GZMB/PLD4/IRF7/IL3RA
+13	Contractile perivascular stromal	Perivascular	High	MYL9/TAGLN/ACTA2/CALD1/IGFBP7
+14	PTGDS/COL1A1 fibroblast stromal	Fibroblast	High	PTGDS/COL1A1/COL6A2/DCN/COL3A1
+15	CD74/CCL25 epithelial-MHC mixed	Epithelial_MHC_mixed	Low	CD74/CCL25/CCL19/HBG2; mixed profile
+16	CCL19 epithelial-stromal mixed	Epithelial_stromal_mixed	Low	CCL19/MARCKSL1/GSTP1/TMSB10; low lineage specificity
+17	CCL25/PRSS16 cTEC-like	TEC_cTEC_like	High	CCL25/PRSS16/CALML3/KRT5/CTSV/S100A14
+18	KRT5/KRT19 stress TEC-like	TEC_mTEC_like	Medium	KRT5/KRT19/MDK/IFI27/BST2/SPINT2
+19	CALML5/S100A14 antigen-presenting mTEC-like	TEC_mTEC_like	High	CALML5/S100A14/CSTA/HLA-DRA/LGALS3
+20	PTPRC/GZMM/CD5 mature T/NK-like	T_cell	Medium	PTPRC/GZMM/CD5/BACH2/CLEC2D
+21	IFI27/RAMP2/ENG endothelial	Endothelial	High	IFI27/IGFBP7/SPARCL1/RAMP2/ENG/TM4SF1
+22	Myogenic contaminant	Contaminant	High	DES/TNNT3/TNNT1/CKM/MYL4/ACTA1

@@ -1,0 +1,9 @@
+cohigh_rule	mean_pct_spots	min_pct_spots	max_pct_spots	total_cohigh_spots
+cohigh_BcellAPC_MHCII	24.13125	17.98	32.35	4357
+cohigh_mTEC_MHCII	19.916249999999998	14.46	22.24	3631
+cohigh_macrophageAPC_MHCII	16.84375	12.79	20.89	3058
+cohigh_pDC_MHCII	16.17	10.64	23.41	2899
+cohigh_endothelial_APC	8.23125	6.02	11.22	1514
+cohigh_fibroblast_TEC	5.385	4.25	7.64	999
+cohigh_cTEC_MHCII	3.24	1.56	5.12	606
+cohigh_thymocyte_APC	1.31	0.71	2.72	244

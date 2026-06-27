@@ -1,0 +1,3 @@
+Documentation, processed tables and figure files are released under the Creative Commons Attribution 4.0 International License, unless otherwise restricted by the terms of the original public data sources.
+
+Recommended citation should be updated after DOI assignment.

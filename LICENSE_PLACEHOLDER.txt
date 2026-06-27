@@ -1,0 +1,6 @@
+License not yet selected.
+
+Suggested options before public release:
+
+- MIT License for analysis code.
+- CC BY 4.0 for documentation, processed tables and figures if compatible with journal and data-source terms.

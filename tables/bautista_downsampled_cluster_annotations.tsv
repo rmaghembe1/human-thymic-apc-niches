@@ -1,0 +1,25 @@
+leiden_0_6	working_label	broad_class	confidence	annotation_note
+0	Endothelial / vascular stromal	Vascular	Medium	RAMP2/APLNR/COL4A1/COL4A2; high endothelial score
+1	Fetal CCL25/KRT-high TEC	TEC	High	S100A14/CCL25/KRT5/KRT19/CTSV; high cTEC and MHC-II scores
+2	Fibroblast / mesenchymal stromal	Fibroblast	High	COL1A1/COL3A1/COL1A2/IGF2/PTN
+3	MHC-II-high vascular/immune-adjacent	Vascular_MHCII	Medium	HLA-E/HLA-DRB5/PECAM1/IGKC; mixed MHC-II and vascular signal
+4	Complement fibroblast	Fibroblast	High	DCN/C1S/C1R/LUM/DPT/COL6A2
+5	Pericyte / smooth-muscle-like stromal	Perivascular	High	RGS5/PDGFRB/ACTA2/CALD1
+6	Postnatal barrier/stress TEC-like	TEC	Medium	CALML5/KRT6A/SLPI/SFN/S100A9; broad TEC-high
+7	ACKR1 vascular / MHC-II-high endothelial-like	Vascular_MHCII	Medium	ACKR1/CD74/B2M/HLA-A/HLA-DRB1
+8	Erythroid / haemoglobin-high contaminant	Contaminant	High	HBA1/HBA2/HBB/ALAS2/AHSP
+9	Smooth-muscle/perivascular stromal	Perivascular	High	TAGLN/MYL9/TPM2/ADIRF/TIMP3
+10	MHC-I/interferon-high endothelial-like	Vascular_MHCII	Medium	B2M/HLA-A/HLA-C/IFI27/TM4SF1/RNASE1
+11	Matrix fibroblast	Fibroblast	High	COL3A1/COL6A3/COL1A2/COL6A1/LAMA2
+12	Vascular-associated stromal / endothelial	Vascular	Medium	RAMP2/GJA4/CAV1/CXCL12/ID1
+13	Contractile perivascular stromal	Perivascular	High	MYL9/TAGLN/ACTA2/CALD1
+14	APOE/complement stromal	Fibroblast	Medium	GPX3/ADH1B/APOE/SERPING1/C1S
+15	T-cell contaminant/minor immune	Immune_contaminant	High	PTPRC/CD3E/TRBC2/TRAC/CD3D
+16	Adult KRT5-KRT19 mTEC-like	TEC	High	IGFBP5/SAA1/CTSV/KRT19/KRT5; high mTEC score
+17	Immature/progenitor-like epithelial TEC	TEC	Medium	HES6/CD24/EPCAM/SOX4/SIX1
+18	KRT17/KRT15/KRT14 mTEC-like	TEC	High	KRT17/KRT19/KRT15/KRT5/KRT14/CCL19
+19	Mixed immune contaminant	Immune_contaminant	Medium	AIF1/MZB1/IGLL1/CD3D/CORO1A
+20	Cycling/proliferating cells	Cycling	High	TOP2A/NUSAP1/CENPF/HMGB2
+21	Immune contaminant, T/DC/B-like mixed	Immune_contaminant	Medium	MZB1/CD1E/PTPRC/CD3G/TCF7
+22	Myogenic/skeletal-muscle-like contaminant	Contaminant	High	TTN/NEB/TNNI1/CKM/MYL4
+23	Mesothelial-like / capsule-associated stromal	Capsule_stromal	Medium	MSLN/UPK3B/TFPI2/RARRES1/RARRES2

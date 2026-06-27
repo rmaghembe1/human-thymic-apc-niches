@@ -1,0 +1,24 @@
+{
+  "title": "Human thymic stromal-immune antigen-presenting niches",
+  "upload_type": "software",
+  "description": "Reproducibility materials for the manuscript: Single-cell and spatial reconstruction of human thymic stromal-immune antigen-presenting niches across early-life development.",
+  "creators": [
+    {
+      "name": "Maghembe, Reuben S.",
+      "affiliation": "St. Francis University College of Health and Allied Sciences; AfroBiomics Co. Ltd."
+    }
+  ],
+  "keywords": [
+    "thymus",
+    "single-cell transcriptomics",
+    "spatial transcriptomics",
+    "CITE-seq",
+    "Visium",
+    "antigen presentation",
+    "MHC-II",
+    "thymic epithelial cells",
+    "B-cell APC"
+  ],
+  "license": "MIT",
+  "access_right": "open"
+}
